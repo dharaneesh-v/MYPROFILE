@@ -1,0 +1,7 @@
+#block1{
+    width: 500px;
+    height: 500px;
+    background-image: url(images.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
